@@ -1,0 +1,33 @@
+ul{
+    list-style: none;
+    font-size: 20px;
+    padding: 10px;
+    margin: 100px;
+    
+    text-align: center;
+  }
+  ul li{
+    display: inline-block;
+    margin-right: 30px;
+  }
+  ul li a{
+    color: rgb(180, 175, 175);
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(63, 22, 229);
+    padding: 10px 5px;
+    text-transform: uppercase;
+    box-shadow: 0px 12px 0px 0px rgba(183,183,183,0.69);
+
+
+  }
+
+  /* div {
+    
+    border: none;
+    height: max-content;
+    width: max-content;
+    align-content: center;
+    ;
+} */
